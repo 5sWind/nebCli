@@ -7,7 +7,9 @@ The nebCli has several functions below:
 ```
 create wallet
 
-Import & unlock wallet
+Import wallet
+
+Lock & unlock wallet
 
 Sync information from Nebulas
 
